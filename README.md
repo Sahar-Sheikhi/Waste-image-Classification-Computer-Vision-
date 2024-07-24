@@ -201,29 +201,6 @@ Overall, Xception is the best performing model in terms of both validation and t
       Future work could explore the integration of additional data augmentation techniques and the use of ensemble methods to further boost performance. Additionally, applying these models to more diverse and larger datasets could provide further insights into their generalization capabilities. Investigating the application of these models in real-world recycling systems could also be a valuable direction for future research
 
 
-References
-[1] A. Krizhevsky, I. Sutskever, and G. E. Hinton, “Imagenet classification with deep convolutional neural networks,” in Advances in Neural Information Processing Systems 25, F. Pereira, C. J. C. Burges, L. Bottou, and K. Q. Weinberger, Eds. Curran Associates, Inc., 2012, pp. 1097–1105. [Online]. Available: http://papers.nips.cc/paper/4824-imagenet- classification-with-deep-convolutional-neural-networks.pdf
-[2]  J. Donovan, “Auto-trash sorts garbage automatically at the techcrunch disrupt hackathon.” [Online]. Available: https://techcrunch.com/2016/09/13/auto-trash-sorts- garbage-automatically-at-the-techcrunch-disrupt-hackathon/
-[3]  G. Mittal, K. B. Yagnik, M. Garg, and N. C. Krishnan, “Spotgarbage: Smartphone app to detect garbage using deep learning,” in Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing, ser. UbiComp ’16. New York, NY, USA: ACM, 2016, pp. 940–945. [Online]. Available: http://doi.acm.org/10.1145/2971648.2971731
-[4]  S. Zhang and E. Forssberg, “Intelligent liberation and classifica- tion of electronic scrap,” Powder technology, vol. 105, no. 1, pp. 295–301, 1999.
-[5]C.Liu,L.Sharan,E.H.Adelson,andR.Rosenholtz,“Exploring features in a bayesian framework for material recognition,” in Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on. IEEE, 2010, pp. 239–246.
-[6] Thung, G., & Yang, M. (2016). Classification of trash for recyclability status. Computer Science, Environmental Science. Corpus ID: 27517432.
-[]Maurício, J., Domingues, I., & Bernardino, J. (2023). Comparing Vision Transformers and Convolutional Neural Networks for Image Classification: A literature review. Applied Sciences, 13(9), 5521. https://doi.org/10.3390/app13095521
-
-[7] Thung dataset: https://github.com/garythung/trashnet
-
-[8]Auto-Trash:https://techcrunch.com/2016/09/13/auto-trash-sorts-garbage-automatically-at-the-techcrunch-disrupt-hackathon/
-
-[91]Saining Xie, Ross Girshick, Piotr Dollar, Zhuowen Tu, Kaiming He. UC San Diego - Facebook AI Research. Aggregated Residual Transformations for Deep Neural Networks, 2017.
-
-[10]Chazhoor, A. A. P., Ho, E. S. L., Woo, W. L., & Gao, B. (2022). Deep transfer learning benchmark for plastic waste classification. Intelligence&Robotics, 2(1). https://doi.org/10.20517/ir.2021.15
-[11]Nash, W., Drummond, T., & Birbilis, N. (2018). A review of deep learning in the study of materials degradation. npj Materials Degradation, 2(1). https://doi.org/10.1038/s41529-018-0058-x
-[11] https://huggingface.co/docs
-
-
-
-
-
 
 
 
